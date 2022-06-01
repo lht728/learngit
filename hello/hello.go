@@ -1,4 +1,4 @@
-package sayhello
+package hello
 
 import "fmt"
 
